@@ -19,7 +19,7 @@
 
 .font-light {
 	font-family: "Titillium Web", sans-serif;
-	font-weight: 300;
+
 }
 
 * {
@@ -233,7 +233,7 @@ body {
 }
 
 #slide-1 h1 {
-	padding-top: 130px;
+	padding-top: 20px;
 }
 
 @media (max-width: 991px) {
@@ -266,12 +266,12 @@ body {
 	}
 	
 	#home-row-2 .col-12 {
-		height: 232px;
+		height: 192px;
 		padding-top: 30px;
 	}
 	
 	#home-row-2 .col-12 .home-hover {
-		height: 166px;
+		height: 150px;
 		overflow: hidden;
 		padding-top: 26px;
 		transition: all ease-in .5s;
@@ -302,7 +302,7 @@ body {
 }
 
 #slide-2 {
-	background-color: #1abc9c;
+	background-color: #28cdfb;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -450,7 +450,7 @@ body {
 
 
 #slide-5 {
-	background-color: #f39c12;
+	background-color: #28cdfb;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -487,11 +487,11 @@ body {
 }
 	
 	#contact-row-4 {
-		padding-top: 125px;
+		padding-top: 10px;
 	}
 	
 	#contact-row-4 .col-12 {
-		height: 175px;
+		height: 200px;
 		overflow: hidden;
 		padding-top: 20px;
 		transition: all ease-in .5s;
